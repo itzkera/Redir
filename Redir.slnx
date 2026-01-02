@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Redir/Redir.vcxproj" Id="eca10432-f82b-454a-8dc2-8bc1b4191e99" />
+</Solution>
