@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA10432-F82B-454A-8DC2-8BC1B4191E99}|Redir\\Redir.vcxproj|C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\Redir\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECA10432-F82B-454A-8DC2-8BC1B4191E99}|Redir\\Redir.vcxproj|solutionrelative:Redir\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA10432-F82B-454A-8DC2-8BC1B4191E99}|Redir\\Redir.vcxproj|C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\Redir\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECA10432-F82B-454A-8DC2-8BC1B4191E99}|Redir\\Redir.vcxproj|solutionrelative:Redir\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA10432-F82B-454A-8DC2-8BC1B4191E99}|Redir\\Redir.vcxproj|C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\Redir\\curl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECA10432-F82B-454A-8DC2-8BC1B4191E99}|Redir\\Redir.vcxproj|solutionrelative:Redir\\curl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA10432-F82B-454A-8DC2-8BC1B4191E99}|Redir\\Redir.vcxproj|C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\Redir\\settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECA10432-F82B-454A-8DC2-8BC1B4191E99}|Redir\\Redir.vcxproj|solutionrelative:Redir\\settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\Redir\\pch.h",
+              "RelativeDocumentMoniker": "Redir\\pch.h",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\Redir\\pch.h",
+              "RelativeToolTip": "Redir\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T06:17:38.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\Redir\\framework.h",
+              "RelativeDocumentMoniker": "Redir\\framework.h",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\Redir\\framework.h",
+              "RelativeToolTip": "Redir\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-04T06:17:37.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "settings.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\Redir\\settings.h",
+              "RelativeDocumentMoniker": "Redir\\settings.h",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\Redir\\settings.h",
+              "RelativeToolTip": "Redir\\settings.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-03T01:14:01.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "curl.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\Redir\\curl.h",
+              "RelativeDocumentMoniker": "Redir\\curl.h",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Redir\\Redir\\curl.h",
+              "RelativeToolTip": "Redir\\curl.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-03T01:13:42.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

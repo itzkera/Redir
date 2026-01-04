@@ -89,5 +89,5 @@ void hookCurl() {
 
     VirtualProtect((LPVOID)aCurlEasySetopt, sizeof(void*), oldProtect, &oldProtect);
 
-    std::wcout << L"curl_easy_setopt hooked at address: 0x" << std::hex << aCurlEasySetopt << std::endl;
+    std::wcout << L"curl was hooked at address: 0x" << std::hex << aCurlEasySetopt << std::endl;
 }
