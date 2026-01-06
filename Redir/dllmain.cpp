@@ -11,7 +11,7 @@ BOOL APIENTRY DllMain(HMODULE module, DWORD call_reason, LPVOID reserved) {
         freopen_s(&pFile, "CONOUT$", "w", stdout);
         freopen_s(&pFile, "CONOUT$", "w", stderr);
         freopen_s(&pFile, "CONIN$", "r", stdin);
-        std::cout << "Redir" << std::endl;
+        std::cout << "Kera Redir (maybe pulls a ac)" << std::endl;
     }
     return TRUE;
 }
